@@ -14,7 +14,7 @@ This project is a Timer Challenge app built using ReactJS. The main objective of
   - **Refs**: Using refs to control component behavior and interactions, particularly for starting, stopping, and resetting timers.
 - **Timer Functionality**: Multiple timer challenges with different target times.
 - **Result Modal**: Displaying results in a modal when the timer stops or reaches zero.
-- **Deployed Version**: The project is deployed and accessible online. [Click here to view the deployed version](https://your-vercel-app-url.vercel.app/).
+- **Deployed Version**: The project is deployed and accessible online. [Click here to view the deployed version](https://timer-game-one.vercel.app/).
 
 ## Technologies Used
 
